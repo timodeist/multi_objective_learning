@@ -8,5 +8,5 @@ opencv-contrib-python==4.4.0.46
 torch==1.7.0
 torchvision==0.8.1
 tqdm==4.53.0
-cvxopt==1.2.5
+cvxopt>=1.2.7
 cvxpy==1.1.7
